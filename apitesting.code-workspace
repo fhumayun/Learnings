@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"mocha.subdirectory": "..\\..\\..\\..\\C:\\Users\\Faisal\\Projects\\API Testing\\mocha\\test\\controllers"
+	}
+}
